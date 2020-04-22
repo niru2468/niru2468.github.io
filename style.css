@@ -1,0 +1,40 @@
+ *{
+  background-color: #235390;
+ }
+  .masthead-brand{
+    font-family: Impact , sans-sariff;
+    color: white;
+    word-spacing: 0.3em;
+  }
+
+  .responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+  div.example {
+  font-size: 1.6em;
+  text-align: left;
+  font-family: Papyrus , sans-sariff;
+  color: white;
+padding-top: 5px;}
+    main{
+          color: white;
+          font-family: Papyrus , sans-sariff;
+        }
+footer{
+  font-family: Papyrus , sans-sariff;
+  margin-top: 100px;
+  font-size: 1.1em;
+  border-bottom: 2px solid white;
+  color: white
+}
+.fa {
+  padding: 20px;
+  color: white;
+  font-size: 40px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
